@@ -12,15 +12,16 @@ https://www.youtube.com/watch?v=-ETQ97mXXF0
 21:51 Data Science Job Roles  
 26:58 Data Life Cycle  
 
-#######################  
+
+#######################  https://youtu.be/-ETQ97mXXF0?t=1825
 30:25 Statistics & Probability  
 34:31 Categories of Data  
 34:50 Qualitative Data  
 36:09 Quantitative Data  
+ 
 39:11 What is Statistics?  
 41:32 Basic Terminologies in Statistics  
 42:50 Sampling Techniques  
-
    45:31 Random Sampling  
    46:20 Systematic Sampling  
    46:50 Stratified Sampling  
@@ -32,6 +33,8 @@ https://www.youtube.com/watch?v=-ETQ97mXXF0
    58:58 Variance  
    59:36 Standard Deviation  
 1:14:25 Confusion Matrix  
+
+
 1:19:16 Probability  
 1:24:14 What is Probability?  
 1:27:13 Types of Events  
@@ -57,7 +60,7 @@ https://www.youtube.com/watch?v=-ETQ97mXXF0
 2:09:21 Machine Learning Definitions  
 2:!1:48 Machine Learning Process  
 
-
+########################### Supervised Learning  
 
 2:18:31 Supervised Learning Algorithm  
 2:19:54 What is Regression?  
@@ -124,7 +127,7 @@ https://www.youtube.com/watch?v=-ETQ97mXXF0
 5:39:06 Types of Naive Bayes  
 
 
-Unsupervised Learning  
+########################### Unsupervised Learning  
 
 
 5:53:37 Support Vector Machine  
@@ -165,6 +168,8 @@ Unsupervised Learning
 7:54:33 Perceptron Learning Algorithm  
 7:57:57 Activation Function  
 8:03:14 Single Layer Perceptron  
+
+ 
 8:04:04 What is Tensorflow?  
 8:07:25 Demo  
 8:21:03 What is a Computational Graph?  
